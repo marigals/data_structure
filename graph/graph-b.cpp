@@ -5,7 +5,7 @@
 #include <set>
 #include <algorithm>
 
-#include "graph-a.hpp"
+#include "graph-b.hpp"
 
 
 Graph::edge::edge() : len(0), i_low(-1), i_high(-1) {}

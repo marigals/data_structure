@@ -2,7 +2,7 @@
 #include <vector>
 #include <cstdlib>
 
-#include "graph-a.hpp"
+#include "graph-b.hpp"
 
 #define N (5)
 
